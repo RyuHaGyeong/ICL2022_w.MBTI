@@ -5,7 +5,7 @@
 <h3>:one: 1주차</h3>
 
 <details>
-<summary>1. 기존 성격에 따른 도서 분류 기준이 존재하는지 조사</summary></br>
+<summary>1. 성격에 따른 도서 분류 기준의 존재 여부 조사</summary></br>
     
 ```
 - 10월 5일(수) ZOOM을 통해 조사 결과 회의 진행
