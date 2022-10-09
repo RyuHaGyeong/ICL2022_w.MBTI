@@ -2,7 +2,7 @@
 <h3 align="center">:seedling: KGU ICL 2022 Intern Team Project :seedling:</h3>
 <div align="center">MBTI 기반 도서 추천 시스템 개발 :books:</div>
 
-<h3>:one: 1주차</h3>
+<h2>:one: 1주차</h2>
 <details>
 <summary>1. 성격에 따른 도서 분류 기준의 존재 여부 조사</summary><br>
     
@@ -25,4 +25,4 @@
 ```
 </details><br>
 
-<h3>:two: 2주차</h3>
+<h2>:two: 2주차</h2>
