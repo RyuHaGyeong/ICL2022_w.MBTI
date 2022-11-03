@@ -133,9 +133,7 @@
 <details>
 <summary>2. MBTI 유형별 선호 도서 & 추천 도서 분류 기준 결과</summary><br>
     
-```
-
-```
+[MBTI 성격 유형별 선호 도서 및 추천 도서 분류 기준](https://github.com/SooH-github/ICL2022_w.MBTI/blob/main/MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EC%84%A0%ED%98%B8%20%EB%8F%84%EC%84%9C%20%EB%B0%8F%20%EC%B6%94%EC%B2%9C%20%EB%8F%84%EC%84%9C%20%EB%B6%84%EB%A5%98%20%EA%B8%B0%EC%A4%80.md)
 </details>
 <details>
 <summary>3. 주간 보고 피드백 및 수정 사항</summary><br>
