@@ -131,7 +131,7 @@
 ```
 </details>
 <details>
-<summary>2. MBTI 유형별 선호 도서 & 추천 도서 분류 기준 결과</summary><br>
+<summary>2. MBTI 유형별 선호 도서 & 추천 도서 분류 기준</summary><br>
     
 [MBTI 성격 유형별 선호 도서 및 추천 도서 분류 기준](https://github.com/SooH-github/ICL2022_w.MBTI/blob/main/MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EC%84%A0%ED%98%B8%20%EB%8F%84%EC%84%9C%20%EB%B0%8F%20%EC%B6%94%EC%B2%9C%20%EB%8F%84%EC%84%9C%20%EB%B6%84%EB%A5%98%20%EA%B8%B0%EC%A4%80.md)
 </details>
@@ -146,7 +146,7 @@
 ```
 </details><br>
 
-<h2>:five: 6주차</h2>
+<h2>:five: 6 & 7주차</h2>
 <details>
 <summary>1. MBTI 유형별 선호 도서 & 추천 도서 분류 기준 최종</summary><br>
     
@@ -157,7 +157,21 @@
 ```
 </details>
 <details>
-<summary>2. 주간 보고 피드백 및 수정 사항</summary><br>
+<summary>2. MBTI 유형별 선호 도서 & 추천 도서 분류 기준에 대한 근거 마련</summary><br>
+    
+```
+- 11월 16일(수) 각자 맡은 부분에 대하여 근거를 정리하여 깃허브에 업로드
+- 이서영 - E/I, 박수현 - S/N, 조은아 - T/F, 박혜연 - J/P
+- 이를 최종본과 합하여 MBTI 유형별 선호 도서 & 추천 도서 분류 기준 정리본 도출
+```
+</details>
+<details>
+<summary>3. MBTI 유형별 선호 도서 & 추천 도서 분류 기준 및 근거</summary><br>
+    
+[MBTI 성격 유형별 선호 도서 및 추천 도서 분류 기준 및 근거]()
+</details>
+<details>
+<summary>4. 주간 보고 피드백 및 수정 사항</summary><br>
     
 ```
 
