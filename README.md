@@ -171,9 +171,12 @@
 [MBTI 성격 유형별 선호 도서 및 추천 도서 분류 기준 및 근거](https://github.com/SooH-github/ICL2022_w.MBTI/blob/main/MBTI%20%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%EB%B3%84%20%EC%84%A0%ED%98%B8%20%EB%8F%84%EC%84%9C%20%EB%B0%8F%20%EC%B6%94%EC%B2%9C%20%EB%8F%84%EC%84%9C%20%EB%B6%84%EB%A5%98%20%EA%B8%B0%EC%A4%80%20%EB%B0%8F%20%EA%B7%BC%EA%B1%B0.md)
 </details>
 <details>
-<summary>4. 주간 보고 피드백 및 수정 사항</summary><br>
+<summary>4. 주간 보고 피드백</summary><br>
     
 ```
-
+- 지난 주간 보고 피드백과는 달리 두 조가 통합하지 않고 각자 진행하기로 결정
+- 현재 도출된 MBTI 유형별 선호 도서 & 추천 도서 분류 기준을 최종본으로써 확정하여 다음 주부터 데이터셋 구축
+- 데이터셋 구축을 위한 교수님과의 오프라인 미팅이 다음 주 중으로 있을 예정
+- 데이터셋 구축 전 고려해야 할 점 : 8 가지로 분류할 것인가 vs. 16 가지로 분류할 것인가
 ```
 </details><br>
